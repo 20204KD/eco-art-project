@@ -5,4 +5,4 @@
 **핵심 기능**
 
 
-![이미지설명](download.jpg)
+![이미지설명](download.png)
